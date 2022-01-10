@@ -21,7 +21,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     cout << "Bonjour" << endl;
-    cout << "monde ! " << endl;
+    cout << "le monde ! " << endl;
     return 0;
 }
 
