@@ -23,6 +23,7 @@ int main(int argc, char** argv) {
     cout << "Bonjour" << endl;
     cout << "le monde ! " << endl;
     cout << "Bonne année 2022 !" << endl;
-    return 0;
+    cout << "1234" << endl;
+    return 0; 
 }
 
